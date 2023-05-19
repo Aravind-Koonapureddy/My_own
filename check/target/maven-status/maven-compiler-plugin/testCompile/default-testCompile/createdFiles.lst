@@ -1,0 +1,15 @@
+com/snaplogic/snaps/Dependency/PropertyTypesTest.class
+com/snaplogic/snaps/Dependency/SingleDocGeneratorTest.class
+com/snaplogic/snaps/Dependency/CharacterCounterTest.class
+com/snaplogic/snaps/Dependency/TwoInputsTwoOutputsTest.class
+com/snaplogic/snaps/Dependency/CurrencyConverterTest.class
+com/snaplogic/snaps/Dependency/SnapWithAccountTest$StubExampleAccount.class
+com/snaplogic/snaps/Dependency/DocGeneratorTest.class
+com/snaplogic/snaps/Dependency/SuggestTest.class
+com/snaplogic/snaps/Dependency/DocConsumerTest.class
+com/snaplogic/snaps/Dependency/SchemaExampleTest.class
+com/snaplogic/snaps/Dependency/SnapWithAccountTest.class
+com/snaplogic/snaps/Dependency/MessagesCheck.class
+com/snaplogic/snaps/Dependency/CurrencyConverterTest$ExchangeRatesSupplier.class
+com/snaplogic/snaps/Dependency/CurrencyConverterTest$FakeForeignExchangeInjector.class
+com/snaplogic/snaps/Dependency/CurrencyConverterTest$FakeForeignExchange.class

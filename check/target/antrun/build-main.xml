@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo file="/home/gaian/check/target/classes/build.properties">build_number=akk007
+                                    snap_pack_version=1
+                                    snap_pack_fqid=check-snap-1-akk007.zip
+                                    snap_pack_url=$SNAP_HOME/check/target/check-build
+                                    snap_pack_name=${NAME}</echo>
+</target>
+</project>
